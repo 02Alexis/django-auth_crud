@@ -12,7 +12,7 @@ autenticar a nuestros usuarios (Login,Register, Rutas protegidas, y mas), CRUD c
 
 Sigue los pasos a continuación para clonar el repositorio:
 
-    $ git clone https://github.com/02Alexis/django-auth-crud.git
+    $ https://github.com/02Alexis/django-auth_crud.git
 
 # Configuración del entorno virtual
 
