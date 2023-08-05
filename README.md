@@ -43,4 +43,13 @@ Ejecuta el siguiente comando para iniciar el servidor local:
 # Recursos adicionales
 
 · [Django Documentation.](https://www.djangoproject.com/download/)
-  
+
+# samples
+![imagen](https://github.com/02Alexis/django-auth-crud/assets/99287560/9993fcb7-e443-4c9c-b95d-8dae1e155464)
+
+![imagen](https://github.com/02Alexis/django-auth-crud/assets/99287560/15b4a4fc-c21f-4bc0-9910-bf8c281c6ee9)
+
+## user login
+![imagen](https://github.com/02Alexis/django-auth-crud/assets/99287560/f4685c21-964a-478a-aa49-170bdf5de17a)
+![imagen](https://github.com/02Alexis/django-auth-crud/assets/99287560/3531d1e3-1813-4a21-922f-4913bf0c6419)
+
